@@ -1,0 +1,79 @@
+2020-07-16 14:04:28,906 - Cucumber_Selenium -INFO -  *** Launching Browser *** 
+2020-07-16 14:04:29,154 - Cucumber_Selenium -INFO -  *** Launching URL *** 
+2020-07-16 14:04:30,358 - Cucumber_Selenium -INFO -  *** Providing login detailsr *** 
+2020-07-16 14:04:31,236 - Cucumber_Selenium -INFO -  *** logging into  noCommerce *** 
+2020-07-16 14:04:49,860 - Cucumber_Selenium -INFO -  *** Entering Customer Info *** 
+2020-07-16 14:04:57,315 - Cucumber_Selenium -INFO -  *** Saving customer info *** 
+2020-07-16 14:05:02,467 - Cucumber_Selenium -INFO -  *** Closing Browser *** 
+2020-07-16 14:05:10,475 - Cucumber_Selenium -INFO -  *** Launching Browser *** 
+2020-07-16 14:05:10,478 - Cucumber_Selenium -INFO -  *** Launching URL *** 
+2020-07-16 14:05:11,840 - Cucumber_Selenium -INFO -  *** Providing login detailsr *** 
+2020-07-16 14:05:12,313 - Cucumber_Selenium -INFO -  *** logging into  noCommerce *** 
+2020-07-16 14:05:25,604 - Cucumber_Selenium -INFO -  *** Entering customer Email to search *** 
+2020-07-16 14:38:46,598 - Cucumber_Selenium -INFO -  *** Launching Browser *** 
+2020-07-16 14:38:46,660 - Cucumber_Selenium -INFO -  *** Launching URL *** 
+2020-07-16 14:38:48,038 - Cucumber_Selenium -INFO -  *** Providing login detailsr *** 
+2020-07-16 14:38:48,623 - Cucumber_Selenium -INFO -  *** logging into  noCommerce *** 
+2020-07-16 14:39:06,362 - Cucumber_Selenium -INFO -  *** Entering Customer Info *** 
+2020-07-16 14:39:13,481 - Cucumber_Selenium -INFO -  *** Saving customer info *** 
+2020-07-16 14:39:17,726 - Cucumber_Selenium -INFO -  *** Closing Browser *** 
+2020-07-16 14:39:24,600 - Cucumber_Selenium -INFO -  *** Launching Browser *** 
+2020-07-16 14:39:24,602 - Cucumber_Selenium -INFO -  *** Launching URL *** 
+2020-07-16 14:39:25,601 - Cucumber_Selenium -INFO -  *** Providing login detailsr *** 
+2020-07-16 14:39:26,052 - Cucumber_Selenium -INFO -  *** logging into  noCommerce *** 
+2020-07-16 14:39:40,143 - Cucumber_Selenium -INFO -  *** Entering customer Email to search *** 
+2020-07-16 14:39:44,298 - Cucumber_Selenium -INFO -  *** Closing Browser *** 
+2020-07-16 15:05:24,361 - Cucumber_Selenium -INFO -  *** Launching Browser *** 
+2020-07-16 15:05:24,427 - Cucumber_Selenium -INFO -  *** Launching URL *** 
+2020-07-16 15:05:28,777 - Cucumber_Selenium -INFO -  *** Providing login detailsr *** 
+2020-07-16 15:05:29,326 - Cucumber_Selenium -INFO -  *** logging into  noCommerce *** 
+2020-07-16 15:05:43,865 - Cucumber_Selenium -INFO -  *** Entering customer Email to search *** 
+2020-07-16 15:05:47,500 - Cucumber_Selenium -INFO -  *** Closing Browser *** 
+2020-07-16 15:10:30,857 - Cucumber_Selenium -INFO -  *** Launching Browser *** 
+2020-07-16 15:10:30,916 - Cucumber_Selenium -INFO -  *** Launching URL *** 
+2020-07-16 15:10:31,720 - Cucumber_Selenium -INFO -  *** Providing login detailsr *** 
+2020-07-16 15:10:32,136 - Cucumber_Selenium -INFO -  *** logging into  noCommerce *** 
+2020-07-16 15:10:39,909 - Cucumber_Selenium -INFO -  *** Closing Browser *** 
+2020-07-16 15:10:45,535 - Cucumber_Selenium -INFO -  *** Launching Browser *** 
+2020-07-16 15:10:45,545 - Cucumber_Selenium -INFO -  *** Launching URL *** 
+2020-07-16 15:10:46,584 - Cucumber_Selenium -INFO -  *** Providing login detailsr *** 
+2020-07-16 15:10:47,113 - Cucumber_Selenium -INFO -  *** logging into  noCommerce *** 
+2020-07-16 15:11:24,690 - Cucumber_Selenium -INFO -  *** Launching Browser *** 
+2020-07-16 15:11:24,731 - Cucumber_Selenium -INFO -  *** Launching URL *** 
+2020-07-16 15:11:25,692 - Cucumber_Selenium -INFO -  *** Providing login detailsr *** 
+2020-07-16 15:11:26,153 - Cucumber_Selenium -INFO -  *** logging into  noCommerce *** 
+2020-07-16 15:11:39,837 - Cucumber_Selenium -INFO -  *** Entering customer Email to search *** 
+2020-07-16 15:11:43,522 - Cucumber_Selenium -INFO -  *** Closing Browser *** 
+2020-07-16 15:16:18,395 - Cucumber_Selenium -INFO -  *** Launching Browser *** 
+2020-07-16 15:16:18,481 - Cucumber_Selenium -INFO -  *** Launching URL *** 
+2020-07-16 15:16:23,624 - Cucumber_Selenium -INFO -  *** Providing login detailsr *** 
+2020-07-16 15:16:24,089 - Cucumber_Selenium -INFO -  *** logging into  noCommerce *** 
+2020-07-16 15:16:45,740 - Cucumber_Selenium -INFO -  *** Entering customer Email to search *** 
+2020-07-16 15:16:49,544 - Cucumber_Selenium -INFO -  *** Closing Browser *** 
+2020-07-16 15:16:55,449 - Cucumber_Selenium -INFO -  *** Launching Browser *** 
+2020-07-16 15:16:55,452 - Cucumber_Selenium -INFO -  *** Launching URL *** 
+2020-07-16 15:16:56,174 - Cucumber_Selenium -INFO -  *** Providing login detailsr *** 
+2020-07-16 15:16:56,593 - Cucumber_Selenium -INFO -  *** logging into  noCommerce *** 
+2020-07-16 15:17:04,043 - Cucumber_Selenium -INFO -  *** Closing Browser *** 
+2020-07-16 15:17:08,700 - Cucumber_Selenium -INFO -  *** Launching Browser *** 
+2020-07-16 15:17:08,710 - Cucumber_Selenium -INFO -  *** Launching URL *** 
+2020-07-16 15:17:09,540 - Cucumber_Selenium -INFO -  *** Providing login detailsr *** 
+2020-07-16 15:17:09,992 - Cucumber_Selenium -INFO -  *** logging into  noCommerce *** 
+2020-07-16 15:20:41,315 - Cucumber_Selenium -INFO -  *** Launching Browser *** 
+2020-07-16 15:20:41,373 - Cucumber_Selenium -INFO -  *** Launching URL *** 
+2020-07-16 15:20:42,381 - Cucumber_Selenium -INFO -  *** Providing login detailsr *** 
+2020-07-16 15:20:42,787 - Cucumber_Selenium -INFO -  *** logging into  noCommerce *** 
+2020-07-16 15:20:55,635 - Cucumber_Selenium -INFO -  *** Entering customer Email to search *** 
+2020-07-16 15:20:59,235 - Cucumber_Selenium -INFO -  *** Closing Browser *** 
+2020-07-16 15:22:51,773 - Cucumber_Selenium -INFO -  *** Launching Browser *** 
+2020-07-16 15:22:51,832 - Cucumber_Selenium -INFO -  *** Launching URL *** 
+2020-07-16 15:22:52,853 - Cucumber_Selenium -INFO -  *** Providing login detailsr *** 
+2020-07-16 15:22:53,270 - Cucumber_Selenium -INFO -  *** logging into  noCommerce *** 
+2020-07-16 15:23:06,054 - Cucumber_Selenium -INFO -  *** Entering customer Email to search *** 
+2020-07-16 15:23:09,715 - Cucumber_Selenium -INFO -  *** Closing Browser *** 
+2020-07-16 15:37:49,123 - Cucumber_Selenium -INFO -  *** Launching Browser *** 
+2020-07-16 15:37:49,254 - Cucumber_Selenium -INFO -  *** Launching URL *** 
+2020-07-16 15:37:50,832 - Cucumber_Selenium -INFO -  *** Providing login detailsr *** 
+2020-07-16 15:37:51,324 - Cucumber_Selenium -INFO -  *** logging into  noCommerce *** 
+2020-07-16 15:38:04,394 - Cucumber_Selenium -INFO -  *** Entering customer Email to search *** 
+2020-07-16 15:38:08,379 - Cucumber_Selenium -INFO -  *** Closing Browser *** 
